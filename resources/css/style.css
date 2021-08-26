@@ -8,14 +8,20 @@ header {
     text-align: center;
 }
 
-.header-title {
-    font-weight: normal;
-}
-
 section {
     text-align: center;
 }
 
 footer {
     text-align: right;
+}
+
+.header-title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.green-link {
+    color: aquamarine;
+    font-size: 16px;
 }
