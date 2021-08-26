@@ -3,13 +3,13 @@ html {
     color:white;
     font-family: Verdana;
 }
-.header-title {
+
+header {
     text-align: center;
-    font-weight: normal;
 }
 
-.header-title a {
-    text-align: center;
+.header-title {
+    font-weight: normal;
 }
 
 section {
