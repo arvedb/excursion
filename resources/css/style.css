@@ -7,6 +7,7 @@ html {
 
 footer {
     text-align: right;
+    color: grey;
 }
 
 .header-title {
@@ -17,4 +18,14 @@ footer {
 .green-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+section h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#description p {
+    font-size: 21px;
+    color: grey;
 }
